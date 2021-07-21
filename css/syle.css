@@ -1,0 +1,35 @@
+.cont1{
+    background-color: rgb(255, 255, 255);
+    max-width: 90%;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgb(0, 0, 0);
+    border-radius: 1em;
+    max-height: 90%;
+
+}
+img {
+    float:left;
+    border: 1px none #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    max-width: 150px;
+  }
+h4{
+    font-family:monospace;
+    padding-top: 10%;
+}
+.col-md-4{
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  .col-md-4:hover{
+    width: 30%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgb(21, 84, 220), 0 6px 20px 0 rgba(26, 113, 218, 0.831);
+    margin-bottom: 25px;
+  }
+  
+ 
